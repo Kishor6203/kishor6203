@@ -1,6 +1,27 @@
 # 💫 About Me:
-## 👨‍💻 About Me<br><br>I'm a **Software Developer** passionate about building modern, scalable, and high-performance web applications. I enjoy transforming ideas into reliable software by combining intuitive frontend experiences with robust backend systems.<br><br>💻 **What I Work With**<br>- ⚛️ React.js for building responsive and interactive user interfaces.<br>- ☕ Java & Spring Boot for developing secure, scalable backend services.<br>- 🗄️ SQL & NoSQL databases for efficient data management.<br>- 🔗 REST APIs and full-stack application development.<br><br>🚀 **What Drives Me**<br>I enjoy solving real-world problems through clean architecture, maintainable code, and continuous learning. Every project is an opportunity to improve my skills, explore new technologies, and create software that delivers real value.<br><br>🌱 **Currently Exploring**<br>- Advanced React patterns and performance optimization.<br>- Microservices with Spring Boot.<br>- Cloud deployment, Docker, and CI/CD.<br>- System Design and scalable application architecture.<br><br>🤝 **Open to**<br>- Full-Stack Development opportunities<br>- Open Source Contributions<br><br>> *"Code with purpose. Build with passion. Learn without limits."* 🚀
+## 👨‍💻 About Me<br>
+<br>I'm a **Software Developer** passionate about building modern, scalable, and high-performance web applications. I enjoy transforming ideas into reliable software by combining intuitive frontend experiences with robust backend systems.<br>
 
+<br>💻 **What I Work With**<br>
+- ⚛️ React.js for building responsive and interactive user interfaces.<br>
+- ☕ Java & Spring Boot for developing secure, scalable backend services.<br>
+- 🗄️ SQL & NoSQL databases for efficient data management.<br>
+- 🔗 REST APIs and full-stack application development.<br>
+
+<br>🚀 **What Drives Me**<br>
+I enjoy solving real-world problems through clean architecture, maintainable code, and continuous learning. Every project is an opportunity to improve my skills, explore new technologies, and create software that delivers real value.<br>
+
+<br>🌱 **Currently Exploring**<br>
+- Advanced React patterns and performance optimization.<br>
+- Microservices with Spring Boot.<br>
+- Cloud deployment, Docker, and CI/CD.<br>
+- System Design and scalable application architecture.<br>
+
+<br>🤝 **Open to**<br>
+- Full-Stack Development opportunities<br>
+- Open Source Contributions<br>
+
+<br> *"Code with purpose. Build with passion. Learn without limits."* 🚀
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/kishor-kumar-479272427/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kishor836566@gmail.com) 
