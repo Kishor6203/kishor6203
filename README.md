@@ -1,12 +1,10 @@
 # 💫 About Me:
 <br>I'm a **Software Developer** passionate about building modern, scalable, and high-performance web applications. I enjoy transforming ideas into reliable software by combining intuitive frontend experiences with robust backend systems.<br>
-
 <br>💻 **What I Work With**<br>
 - ⚛️ React.js for building responsive and interactive user interfaces.<br>
 - ☕ Java & Spring Boot for developing secure, scalable backend services.<br>
 - 🗄️ SQL & NoSQL databases for efficient data management.<br>
 - 🔗 REST APIs and full-stack application development.<br>
-
 <br>🚀 **What Drives Me**<br>
 I enjoy solving real-world problems through clean architecture, maintainable code, and continuous learning. Every project is an opportunity to improve my skills, explore new technologies, and create software that delivers real value.<br>
 
