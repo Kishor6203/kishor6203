@@ -1,5 +1,4 @@
 # 💫 About Me:
-## 👨‍💻 About Me<br>
 <br>I'm a **Software Developer** passionate about building modern, scalable, and high-performance web applications. I enjoy transforming ideas into reliable software by combining intuitive frontend experiences with robust backend systems.<br>
 
 <br>💻 **What I Work With**<br>
