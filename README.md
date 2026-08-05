@@ -7,17 +7,14 @@
 - 🔗 REST APIs and full-stack application development.<br>
 <br>🚀 **What Drives Me**<br>
 I enjoy solving real-world problems through clean architecture, maintainable code, and continuous learning. Every project is an opportunity to improve my skills, explore new technologies, and create software that delivers real value.<br>
-
 <br>🌱 **Currently Exploring**<br>
 - Advanced React patterns and performance optimization.<br>
 - Microservices with Spring Boot.<br>
 - Cloud deployment, Docker, and CI/CD.<br>
 - System Design and scalable application architecture.<br>
-
 <br>🤝 **Open to**<br>
 - Full-Stack Development opportunities<br>
 - Open Source Contributions<br>
-
 <br> *"Code with purpose. Build with passion. Learn without limits."* 🚀
 
 ## 🌐 Socials:
